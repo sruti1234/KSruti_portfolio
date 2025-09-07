@@ -1,30 +1,29 @@
-# Dark portfolio
+# 🌟 My Portfolio
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Welcome to my portfolio repository!  
+This project showcases my skills, projects, and experience in web development and programming. It’s designed to highlight what I’ve built and what I’m passionate about.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/237r1a6684-7687s-projects/v0-dark-portfolio)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/Toea3JlFd0z)
 
-## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🚀 Features
+- Responsive design for desktop and mobile
+- Sections for About Me, Skills, Projects, and Contact
+- Clean and minimal layout
+- Easy navigation
 
-## Deployment
 
-Your project is live at:
 
-**[https://vercel.com/237r1a6684-7687s-projects/v0-dark-portfolio](https://vercel.com/237r1a6684-7687s-projects/v0-dark-portfolio)**
+## 🛠 Tech Stack
+- *Frontend:* HTML, CSS, JavaScript  
+- *Frameworks/Libraries:* React.js / Tailwind CSS 
+- *Tools:* Git, GitHub, VS Code  
 
-## Build your app
 
-Continue building your app on:
 
-**[https://v0.app/chat/projects/Toea3JlFd0z](https://v0.app/chat/projects/Toea3JlFd0z)**
+## 📂 Sections in Portfolio
+- *Home* – Quick introduction  
+- *About Me* – Who I am and what I do  
+- *Skills* – Technologies and tools I work with  
+- *Projects* – Highlights of my recent work  
+- *Contact* – Ways to connect with me  
 
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
